@@ -1,0 +1,61 @@
+* {
+  font-family: "Geist", sans-serif;
+}
+
+.btn-first {
+  background-color: #4a00ff;
+  color: white;
+}
+
+.btn-second {
+  color: black;
+  border: 1px solid #e5e7eb;
+}
+
+.high {
+    background-color: #eee0e0;
+    color: #e92828;
+}
+
+.medium {
+  background-color: #e9e3ce;
+  color: #ff8a05;
+}
+
+.low {
+  background-color: #d8e2ec;
+  color: #64748B;
+}
+
+.next-eh {
+  background-color: #DCFCE7;
+  color: #059669;
+}
+
+.next-la {
+  background-color: #e7d9e4;
+  color: #531c4c;
+}
+
+
+.high-border-top {
+  border-top: 3px solid rgba(0, 128, 0, 0.6);
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.low-border-top {
+  border-top: 3px solid rgba(128, 0, 128, 0.6);
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.bg-open {
+  background-color: green;
+  color: white;
+}
+
+.bg-closed{
+  background-color: red;
+  color: white;
+}

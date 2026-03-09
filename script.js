@@ -185,7 +185,7 @@ function displayAllIssues(issues) {
                <div class="card-upper p-3">
                 <div class="card-head flex justify-between">
                   <div>
-                      <img src="${item.status === "open" ? "./assets/Open-Status.png" : "./assets/Closed-Status.png"}">
+                      <img src="${item.status === "open" ? "Open-Status.png" : "Closed-Status.png"}">
                   </div>
                   <div class="badge badge-lg ${
                     item.priority === "high"
